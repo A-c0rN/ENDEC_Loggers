@@ -1,0 +1,14 @@
+{
+	"SerialPort": "COM1",
+	"StationTitle": "WXYZ SAGE Logs",
+	"StationURL": "https://icecast.example.com/STATION",
+	"Description": "Footer Text!",
+	"webhooks": [
+		"https://example.com/webhook/1",
+		"https://example.com/webhook/2"
+	],
+    "UnknownColor": "0x797979",
+    "AdvisoryColor": "0xffcc00",
+    "WatchColor": "0xff6600",
+    "WarningColor": "0xff0000"
+}
